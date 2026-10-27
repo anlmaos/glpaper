@@ -2,6 +2,8 @@
 # GLPaper
 GLPaper is a wallpaper program for wlroots based wayland compositors such as sway that allows you to render glsl shaders as your wallpaper
 
+This repository is a fork of [`~scoopta/glpaper`](https://hg.sr.ht/~scoopta/glpaper) maintained by Anima Labs.
+
 [![builds.sr.ht status](https://builds.sr.ht/~scoopta/glpaper.svg)](https://builds.sr.ht/~scoopta/glpaper?)
 
 ## Usage
@@ -64,8 +66,3 @@ Please submit patches to https://lists.sr.ht/~scoopta/glpaper
 You can find documentation here https://man.sr.ht/hg.sr.ht/email.md
 ## Packages
 If you're on Arch there's an unofficial AUR package https://aur.archlinux.org/packages/glpaper-hg/
-
-
-## Upstream
-
-This repository is a fork maintained by `anlmalabs` of [`vi70x3/glpaper`](https://github.com/vi70x3/glpaper) (itself a fixed-build edition of [`~scoopta/glpaper`](https://hg.sr.ht/~scoopta/glpaper)). Upstream is considered abandoned; all further development happens here.
